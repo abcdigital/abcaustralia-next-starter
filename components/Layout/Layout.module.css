@@ -1,0 +1,12 @@
+.mastheadBox {
+  display: flex;
+  color: white;
+  background-color: var(--colour-charcoal);
+}
+
+.logoLink {
+  &,
+  &:focus {
+    color: white;
+  }
+}
